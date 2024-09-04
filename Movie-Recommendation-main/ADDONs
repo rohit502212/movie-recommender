@@ -1,0 +1,9 @@
+
+The project contains a similarity pkl file 
+which has to used in case of running the project on a server 
+
+The file location is C:\Users\hp\PycharmProjects\Movie_recc
+
+This file has to be copied and pased in the pycharm project folder 
+
+Once done import the pickle file in open read mode 
